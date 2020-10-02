@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /**
+ * JetBrains Academy task solution. Cinema.
  * The cinema has n rows, each row consists of m seats (n and m do not exceed 20).
  * The two-dimensional matrix stores the information on the sold tickets,
  * number 1 means that the ticket for this place is already sold, the number 0 means that the place is available.
